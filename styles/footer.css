@@ -1,0 +1,36 @@
+.footer-wrapper{
+    background-color: #3a3636ed;
+    color: white;
+}
+
+.footer-wrapper > .links-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid grey 2px;
+}
+
+.footer-wrapper > .links-wrapper > .team-wrapper {
+    margin-left: 10px;
+    border-right: solid grey 2px;
+    width: 25%;
+    text-align: center;
+}
+
+.footer-wrapper > .links-wrapper > .education-wrapper {
+    border-right: solid grey 2px;
+    width: 25%;
+    text-align: center;
+}
+
+.footer-wrapper > .links-wrapper > .privacy-wrapper {
+    border-right: solid grey 2px;
+    width: 25%;
+    text-align: center;
+}
+
+.footer-wrapper > .links-wrapper > .writing-wrapper {
+    margin-right: 10px;
+    width: 25%;
+    text-align: center;
+}
